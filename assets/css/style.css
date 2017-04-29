@@ -1,4 +1,14 @@
-h3
-{
-	color: blue;
+line {
+  width: 33%;
+  color: white;
+  background: #666;
+  float: left;
+}
+
+
+hr {
+    border: none;
+    height: 3px;
+    color: #333;
+    background-color: #333
 }
