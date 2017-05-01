@@ -13,24 +13,31 @@ hr {
 	font-family:'Georgia', 'Times', 'Times New Roman', 'serif';
 	color: white;
 	font-size: 35px;
-	width: 14%;
+	width: 20%;
 	text-align: center;
 }
 
-.header {
-    background-color: grey;
-    color: white;
-    padding: 15px;}
 
 #tabs {
+position: absolute;
+top: 20px;
+right: 500px;
+}
+
+
+#heading {
 
 }
 
 #header
 {
-    padding: 1em;
+    padding: 50px
     color: white;
-    background-color: black;
+    background-color: #ffffff;
+ 	margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
 
 body {
