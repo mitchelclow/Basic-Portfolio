@@ -1,14 +1,27 @@
-line {
-  width: 33%;
-  color: white;
-  background: #666;
-  float: left;
-}
-
-
 hr {
     border: none;
-    height: 3px;
+    height: 10px;
     color: #333;
     background-color: #333
+}
+
+#name {
+	padding: 20px;
+margin-bottom: 20px;
+width: 10%;
+background: #4aaaa5;
+font-family: Georgia;
+}
+
+body {
+	background-image: url('http://i.imgur.com/3k8zPNL.png');
+	font-style: #777777;
+}
+
+#neon {
+	float: left;
+}
+
+h1 {
+	color: blue;
 }
