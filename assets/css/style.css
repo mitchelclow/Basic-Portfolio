@@ -54,7 +54,36 @@ body {
 
 #neon {
 	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-bottom: 20px;
 }
+
+#headphones {
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+#nobs {
+	float: left;
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+
+#ipad {
+	float: left;
+	margin-bottom: 20px;
+}
+
+#earbuds {
+	float: left;
+	margin-left: 20px;
+}
+
+
 
 #tabs {
 	float: left;
@@ -157,3 +186,5 @@ h3
 	top: 0px;
 	left: 25px;
 }
+
+
