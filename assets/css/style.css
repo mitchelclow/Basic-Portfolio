@@ -1,7 +1,7 @@
 .frank {
     border: none;
     height: 3px;
-    width: 635px;
+    width: 600px;
     color: #d7dadd;
     background-color: #d7dadd;
 
@@ -139,4 +139,21 @@ h3
 {
 	float: left;
 	margin: 10px;
+}
+
+#jack
+
+{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 2;
+	color: #777777
+	;
+}
+
+#vick
+
+{
+	position: absolute;
+	top: 0px;
+	left: 25px;
 }
