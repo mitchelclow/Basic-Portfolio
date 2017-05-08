@@ -309,3 +309,36 @@ body {
 	position: absolute;
 	bottom: -415px;
 }
+
+#dark
+
+{
+	position: absolute;
+	left: 25px;
+	width: 115%;
+}
+
+#houses
+
+{
+	position: absolute;
+	left: 25px;
+	width: 115%;
+}
+
+#waves
+
+{
+	position: absolute;
+	left: 25px;
+	width: 115%;
+}
+
+#german
+
+{
+	position: absolute;
+	left: 25px;
+	bottom: 15px;
+	width: 150px;
+}
